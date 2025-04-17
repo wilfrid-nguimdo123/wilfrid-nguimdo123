@@ -8,7 +8,7 @@
 
 - 📍 **Localisation :** Chaville (92370) - Mobilité sur toute la France métropolitaine
 
-- ⚡ **Fun fact :** Je peux résoudre des problèmes réseau les yeux fermés.
+- ⚡ **Fun fact :** Je peux apporter des solutions aux problèmes réseaux complexes
 
 <br/>
 
