@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! Je suis Wilfrid Nidol NGUIMDO, Administrateur Systèmes & Réseaux | Chef de Projet IT Junior 🖥️</h2>
 <br>
-- 🔭 **Actuellement**, je travaille sur l'optimisation d'infrastructures réseau et le déploiement de solutions systèmes sécurisées.
+- 🔭Actuellement, je travaille sur l'optimisation d'infrastructures réseau et le déploiement de solutions systèmes sécurisées.
 
 - 🌱 **En ce moment**, je me perfectionne sur les technologies cloud (AWS/Azure), la cybersécurité et les méthodologies de gestion de projet IT.
 
