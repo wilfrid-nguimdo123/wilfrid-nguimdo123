@@ -40,7 +40,7 @@
 
 ### Réseaux & Sécurité  
 <div align="center">  
-<a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" height="50" /></a>  
+<a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://brandeps.com/logo-download/C/Cisco-logo-vector-01.svg" alt="Cisco" height="50" /></a>  
  
 <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>  
