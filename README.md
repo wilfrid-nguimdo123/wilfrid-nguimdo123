@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:f97316&height=190&section=header&text=Wilfrid%20Nidol%20NGUIMDO&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Infrastructure%20%26%20S%C3%A9curit%C3%A9%20%E2%80%A2%20Syst%C3%A8mes%2C%20R%C3%A9seaux%20%26%20Cloud&descSize=17&descAlignY=58" width="100%" alt="Wilfrid Nidol NGUIMDO" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Alternant+Infrastructure+%26+S%C3%A9curit%C3%A9+(12+mois);Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+R%C3%A9seaux;AWS+%E2%80%A2+Terraform+%E2%80%A2+SIEM+%2F+SOC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Alternant+Infrastructure+%26+S%C3%A9curit%C3%A9+(10+ou+12+mois);Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+R%C3%A9seaux;AWS+%E2%80%A2+Terraform+%E2%80%A2+SIEM+%2F+SOC" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/wilfrid-nguimdo-780283336"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:wilfridnidolnguimdo@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Recherche-Alternance%2012%20mois-f97316?style=for-the-badge" alt="Recherche alternance 12 mois" />
+<img src="https://img.shields.io/badge/Recherche-Alternance%2010%20ou%2012%20mois-f97316?style=for-the-badge" alt="Recherche alternance 10 ou 12 mois" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 👋 À propos
 
-Étudiant en **Master 2 Management de la Cybersécurité et du Cloud**, je recherche une **alternance de 12 mois en infrastructure et sécurité**.
+Étudiant en **Master 2 Management de la Cybersécurité et du Cloud**, je recherche une **alternance de 10 ou 12 mois en infrastructure et sécurité**.
 
 J'aime comprendre comment un système fonctionne, le casser proprement en laboratoire, puis le **diagnostiquer, le réparer et le documenter**. Rigoureux et orienté résolution de problèmes, je veux contribuer à l'administration et à la sécurisation des infrastructures, et progresser en cloud, virtualisation et automatisation.
 
