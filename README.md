@@ -39,7 +39,7 @@ Socle Windows d'une PME : AD DS, DNS, DHCP, GPO. **4 pannes provoquées** et dia
 </td>
 <td width="50%" valign="top">
 
-### 🔥 [Réseau sécurisé avec pfSense](https://github.com/wilfrid-nguimdo123/pfsense-vlan-vpn-)
+### 🔥 [Réseau sécurisé avec pfSense](https://github.com/wilfrid-nguimdo123/pfsense-vlan-vpn)
 Lab réseau type entreprise : **segmentation VLAN**, règles de pare-feu et **VPN OpenVPN**.
 
 `pfSense` `VLAN` `Firewall` `OpenVPN`
