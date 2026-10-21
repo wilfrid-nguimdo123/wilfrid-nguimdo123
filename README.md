@@ -21,7 +21,7 @@ J'aime comprendre comment un système fonctionne, le casser proprement en labora
 - 🛠️ **3 expériences terrain** en réseaux, systèmes et cloud (France et Cameroun)
 - 🔐 **Cybersécurité** : durcissement, IAM, SIEM/SOC, analyse d'incidents, ISO 27001
 - ☁️ **Cloud** : AWS (EC2, S3, IAM, VPC), Azure, Terraform
-- 📍 La Grande-Motte (34) · mobile · 🇫🇷 Français natif · 🇬🇧 Anglais B2
+- 📍 Paris · mobile partout en France · 🇫🇷 Français natif · 🇬🇧 Anglais B2
 
 ---
 
