@@ -1,82 +1,117 @@
-<h2 align="left">Hi 👋! Je suis Wilfrid Nidol NGUIMDO, Administrateur Systèmes & Réseaux | Chef de Projet IT Junior 🖥️</h2>
-<br>
-- 🔭Actuellement, je travaille sur l'optimisation d'infrastructures réseau et le déploiement de solutions systèmes sécurisées.
+<div align="center">
 
-- 🌱 **En ce moment**, je me perfectionne sur les technologies cloud (AWS/Azure), la cybersécurité et les méthodologies de gestion de projet IT.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:f97316&height=190&section=header&text=Wilfrid%20Nidol%20NGUIMDO&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Infrastructure%20%26%20S%C3%A9curit%C3%A9%20%E2%80%A2%20Syst%C3%A8mes%2C%20R%C3%A9seaux%20%26%20Cloud&descSize=17&descAlignY=58" width="100%" alt="Wilfrid Nidol NGUIMDO" />
 
-- ❓ **N'hésitez pas à me demander** des conseils sur l'administration réseau, le déploiement de systèmes ou la gestion d'infrastructures IT.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Alternant+Infrastructure+%26+S%C3%A9curit%C3%A9+(12+mois);Windows+Server+%E2%80%A2+Active+Directory+%E2%80%A2+R%C3%A9seaux;AWS+%E2%80%A2+Terraform+%E2%80%A2+SIEM+%2F+SOC" alt="Typing SVG" />
 
-- 📍 **Localisation :** Chaville (92370) - Mobilité sur toute la France métropolitaine
+<a href="https://www.linkedin.com/in/wilfrid-nguimdo-780283336"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:wilfridnidolnguimdo@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Recherche-Alternance%2012%20mois-f97316?style=for-the-badge" alt="Recherche alternance 12 mois" />
 
-- ⚡ **Fun fact :** Je peux apporter des solutions aux problèmes réseaux complexes
+</div>
 
+---
+
+## 👋 À propos
+
+Étudiant en **Master 2 Management de la Cybersécurité et du Cloud**, je recherche une **alternance de 12 mois en infrastructure et sécurité**.
+
+J'aime comprendre comment un système fonctionne, le casser proprement en laboratoire, puis le **diagnostiquer, le réparer et le documenter**. Rigoureux et orienté résolution de problèmes, je veux contribuer à l'administration et à la sécurisation des infrastructures, et progresser en cloud, virtualisation et automatisation.
+
+- 🛠️ **3 expériences terrain** en réseaux, systèmes et cloud (France et Cameroun)
+- 🔐 **Cybersécurité** : durcissement, IAM, SIEM/SOC, analyse d'incidents, ISO 27001
+- ☁️ **Cloud** : AWS (EC2, S3, IAM, VPC), Azure, Terraform
+- 📍 La Grande-Motte (34) · mobile · 🇫🇷 Français natif · 🇬🇧 Anglais B2
+
+---
+
+## 🚀 Projets à la une
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [Lab Active Directory, DNS & DHCP](https://github.com/wilfrid-nguimdo123/lab-active-directory-dns-dhcp)
+Socle Windows d'une PME : AD DS, DNS, DHCP, GPO. **4 pannes provoquées** et diagnostiquées couche par couche, avec preuves Wireshark et vérification PowerShell (21 contrôles).
+
+`Windows Server 2022` `Active Directory` `Wireshark` `PowerShell`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 [Réseau sécurisé avec pfSense](https://github.com/wilfrid-nguimdo123/pfsense-vlan-vpn-)
+Lab réseau type entreprise : **segmentation VLAN**, règles de pare-feu et **VPN OpenVPN**.
+
+`pfSense` `VLAN` `Firewall` `OpenVPN`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [AWS Security Baseline](https://github.com/wilfrid-nguimdo123/aws-security-baseline)
+**Durcissement automatisé** d'un compte AWS avec Terraform et Python (boto3).
+
+`AWS` `Terraform` `Python` `boto3`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ [Infrastructure AWS sécurisée](https://github.com/wilfrid-nguimdo123/aws-ec2-s3-infrastructure)
+Déploiement d'une infrastructure **EC2, S3, IAM et SNS** sécurisée.
+
+`AWS` `EC2` `S3` `IAM`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Compétences techniques
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,powershell,bash,python,aws,azure,terraform,git,gitlab,vscode&perline=13" alt="Compétences" />
+
+</div>
+
+| Domaine | Technologies |
+| --- | --- |
+| **Systèmes** | Windows Server · Active Directory · GPO · Ubuntu · Debian · SSH · VMware · VirtualBox |
+| **Réseaux** | Cisco · TCP/IP · DNS · DHCP · VLAN · NAT · ACL · VPN · Routage · pfSense |
+| **Cybersécurité** | IAM · Security Groups · SIEM / SOC (Wazuh) · MITRE ATT&CK · Kali Linux · Analyse d'incidents · Durcissement · ISO 27001 |
+| **Cloud** | AWS (EC2 · S3 · IAM · VPC) · Azure · Terraform |
+| **Supervision & analyse** | Zabbix · Wireshark · Journalisation |
+| **Automatisation** | PowerShell · Bash · Python · API REST · GitLab CI/CD |
+| **Gestion de projet** | Agile / Scrum · Jira · Confluence · Trello · Gestion des risques · Reporting |
+
+---
+
+## 💼 Expérience
+
+| Période | Poste | Entreprise |
+| --- | --- | --- |
+| 2025 · 3 mois | **Technicien Cloud & Sécurité** : déploiement AWS sous Linux, sécurisation EC2 / IAM / VPC, supervision et journalisation | Altinet Solutions, Paris |
+| 2024 · 4 mois | **Assistant Réseaux & Sécurité** : environnement critique, déploiement de Zabbix, intégration de pfSense | ASECNA, Cameroun |
+| 2023 · 3 mois | **Technicien Réseaux & Sécurité** : équipements Cisco, DNS / DHCP / VPN / VLAN, diagnostic Wireshark | Afrovision Group, Cameroun |
+
+---
+
+## 🎓 Certifications
+
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-en%20cours-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet%20Certified-Fundamentals-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Fundamental%20Cyber%20Security-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+---
+
+<div align="center">
+
+**Ouvert aux opportunités d'alternance en infrastructure, systèmes, réseaux et cybersécurité.**
 <br/>
+<a href="https://www.linkedin.com/in/wilfrid-nguimdo-780283336">Échangeons sur LinkedIn</a>
 
-<div align="right">
-  <img height="345" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:1e293b&height=100&section=footer" width="100%" alt="" />
+
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kteken10&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kteken10&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=9&theme=ocean_dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-
-## Mes Compétences Techniques  
-<table><tr><td valign="top" width="33%">
-
-### Administration Système  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows Server" height="50" /></a>  
-  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Réseaux & Sécurité  
-<div align="center">  
-<a href="https://www.cisco.com/" target="_blank"><img style="margin: 10px" src="https://brandeps.com/logo-download/C/Cisco-logo-vector-01.svg" alt="Cisco" height="50" /></a>  
- 
-<a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Cloud & Gestion de Projet  
-<div align="center">  
-  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-<p align="left">Me Contacter</p>
-
-###
-
-<div align="right">
-  <a href="https://www.linkedin.com/in/wilfrid-nguimdo-780283336" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/33759670769" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  </a>
-  <a href="mailto:wilfridnidolnigumdo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
